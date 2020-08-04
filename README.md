@@ -6,7 +6,7 @@
 - 💰 Recipient of NSF GFR
 - 😄 I’m looking to improve my skills with Python and data analysis/visulaization
 - 🥅 2020 Goals: Survive 2020 while also improving my programming skills
-- 🍀 Fun fact: I love plants and want a big graden BUT I cannot keep a planet alive 
+- 🍀 Fun fact: I love plants and want a big graden BUT I cannot keep a plant alive 
 
 ### Connect with me:
 
@@ -23,7 +23,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ---
