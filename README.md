@@ -1,16 +1,43 @@
-### Hi there 👋
 
-<!--
-**hmzmuda/hmzmuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Hannah Zmuda 👋
 
-Here are some ideas to get you started:
+## I'm a Biomedical Enigineer and future PhD!
+- 🔬 I am currently researching Mechanobiology + Immunology
+- 💰 Recipient of NSF GFR
+- 😄 I’m looking to improve my skills iwth Python and data analysis/visulaization
+- 🥅 2020 Goals: Survive 2020 while also improving my programming skills
+- 🍀 Fun fact: I love plants and want a big graden BUT I cannot keep a planet alive 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="hmzmuda.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/googlescholar.svg" />][google scholar]
+[<img align="left" alt="ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/researchgate.svg" />][researchgate]
+
+<br />
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+### Go to these amazing GitHubs for the OGs
+- [How to make this README.md](https://github.com/codeSTACKr/codeSTACKr)
+- [How to make blog post updates](https://github.com/gautamkrishnar/blog-post-workflow)
+
+---
+
+<img align="left" alt="hmzmuda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hmzmuda&show_icons=true&hide_border=true" />
+
+[website]: https://hmzmuda.com/
+[linkedin]: https://www.linkedin.com/in/hannahzmuda
+[google scholar]: https://scholar.google.com/citations?user=xDq7lpcAAAAJ&hl=en
+[researchgate]: https://www.researchgate.net/profile/Hannah_Zmuda
+[twitter]: https://twitter.com/HannahZmuda
+
