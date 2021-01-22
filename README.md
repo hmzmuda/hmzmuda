@@ -4,8 +4,8 @@
 ## I'm a Biomedical Enigineer and future PhD!
 - 🔬 I am currently researching Mechanobiology + Immunology
 - 😄 I’m looking to improve my skills with Python and data analysis/visulaization
-- 🥅 2020 Goals: Survive 2020 while also improving my programming skills
-- 🍀 Fun fact: I love plants and want a big graden BUT I cannot keep a plant alive 
+- 🥅 2021 Goals: Embark on a large-ish python project
+- 🍀 Fun fact: I love plants and want a big graden BUT I cannot keep a plant alive
 
 ### Connect with me:
 
